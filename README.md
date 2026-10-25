@@ -2,6 +2,13 @@
 
 A cute animated desktop companion for Windows, powered by Rainmeter.
 
+## Project Demo
+
+<video src="assets/VirtualDesktopPet_LaunchFilm_v3_VO_18x9.mp4" controls muted playsinline width="100%">
+  Your browser does not support inline video.
+  <a href="assets/VirtualDesktopPet_LaunchFilm_v3_VO_18x9.mp4">Watch the demo video</a>.
+</video>
+
 ## Installation
 
 1. **Download the ZIP** containing the `VirtualDesktopPet` skin.
